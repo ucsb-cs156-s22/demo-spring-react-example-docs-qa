@@ -20,6 +20,6 @@ collections:
     permalink: /branches/:path/
 
 repo_name: "This-should-be-overridden-by-github-actions-script"
-repo: ucsb-cs156-s22/demo-spring-react-example
-owner: ucsb-cs156-s22
+repo: ucsb-cs156/demo-spring-react-example
+owner: ucsb-cs156
 repo_name: demo-spring-react-example
